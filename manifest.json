@@ -1,20 +1,22 @@
 {
-  "id": "dev.replugged.ThemeTemplate",
-  "name": "Theme Template",
-  "description": "A theme template",
+  "id": "cl.asgg.replugged-cabin-font",
+  "name": "Cabin font for Discord",
+  "description": "A theme that changes the font of Discord to Cabin.",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "sebalvaro",
+    "discordID": "122463346418122752",
+    "github": "sebalvaro"
   },
   "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/theme-template"
+    "id": "sebalvaro/Replugged-Cabin-Font"
   },
   "license": "MIT",
   "type": "replugged-theme",
   "main": "src/main.css",
-  "source": "https://github.com/replugged-org/theme-template",
-  "image": ["https://i.imgur.com/14CNs3a.png?CHANGE-THIS-URL"]
+  "source": "https://github.com/sebalvaro/Replugged-Cabin-Font",
+  "image": [
+    "https://i.imgur.com/7nQ5ILw.png"
+  ]
 }
