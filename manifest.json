@@ -10,6 +10,7 @@
   "version": "1.0.0",
   "updater": {
     "type": "github",
+    "source": "github",
     "id": "sebalvaro/Replugged-Cabin-Font"
   },
   "license": "MIT",
