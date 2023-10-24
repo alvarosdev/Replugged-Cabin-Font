@@ -7,7 +7,7 @@
     "discordID": "122463346418122752",
     "github": "sebalvaro"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "updater": {
     "type": "github",
     "source": "github",
