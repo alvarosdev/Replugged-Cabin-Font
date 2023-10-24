@@ -20,8 +20,9 @@
   "devDependencies": {
     "@parcel/config-default": "^2.9.3",
     "@parcel/core": "^2.9.3",
+    "@parcel/transformer-sass": "^2.9.3",
     "@types/node": "^18.17.6",
     "prettier": "^2.8.8",
-    "replugged": "^4.6.0"
+    "replugged": "^4.7.4"
   }
 }

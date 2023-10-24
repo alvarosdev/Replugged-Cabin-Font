@@ -1,7 +1,7 @@
 {
   "id": "cl.asgg.replugged-cabin-font",
-  "name": "Cabin font for Discord",
-  "description": "A theme that changes the font of Discord to Cabin.",
+  "name": "Cabin & Fira font",
+  "description": "Cabin for the UI and Fira for the code blocks.",
   "author": {
     "name": "sebalvaro",
     "discordID": "122463346418122752",
@@ -10,12 +10,11 @@
   "version": "1.0.2",
   "updater": {
     "type": "github",
-    "source": "github",
     "id": "sebalvaro/Replugged-Cabin-Font"
   },
   "license": "MIT",
   "type": "replugged-theme",
-  "main": "src/main.css",
+  "main": "src/main.scss",
   "source": "https://github.com/sebalvaro/Replugged-Cabin-Font",
   "image": [
     "https://i.imgur.com/7nQ5ILw.png"
